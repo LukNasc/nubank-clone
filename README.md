@@ -9,3 +9,9 @@
 
 ## Projeto:  
 O Projeto foi criado apenas para estudo, com foco em animações em react native. Esta é interface principal do aplicativo Nubank, onde o usuário consegue ver o seu saldo na conta e outras funções.
+
+###### Obs: O QRCode do app ficou um pouc bugado por conta da compatibilidade da biblioteca com a versão do React Native, mas nada que atrapalhe.
+
+## Screenshots
+<img src="https://github.com/LukNasc/nubank-clone/blob/master/print1.png" width="300" align="left">
+<img src="https://github.com/LukNasc/nubank-clone/blob/master/print2.png" width="300" align="right">
